@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Kriti</h1>
 <h3 align="center"></h3>
-<img align="right" alg="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept.gif">
+<img align="right" alg="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriti-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="kriti-dhingra" /> </p>
+
+- 👩‍🎓 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
+
+- ✨ Ex-Research intern @ Samsung R&D
 
 - 🔭 I’m currently working on **CherryPick**
 
